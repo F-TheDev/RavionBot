@@ -1,0 +1,12 @@
+{
+  "name": "cafepos-discord-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "discord.js": "^14.14.1"
+  }
+}
